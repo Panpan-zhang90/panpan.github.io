@@ -1,0 +1,25 @@
+#contents {
+width:1425px;
+margin:auto;
+padding-top:240px;
+}
+
+
+#globalHeader {
+    background: url("../img/navibg.png") no-repeat scroll left bottom rgba(0, 0, 0, 0);
+    left: 50%;
+    margin: 0 auto 60px -713px;
+    overflow: hidden;
+    padding-bottom: 54px;
+    padding-top: 90px;
+    position: fixed;
+    top: 0;
+    width: 1425px;
+    z-index: 99999;
+}
+
+.detail #pic li{
+    width: 1425px;
+	margin:auto;
+	float:none;
+	}

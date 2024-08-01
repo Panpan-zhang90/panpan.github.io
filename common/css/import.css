@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* default style
+----------------------------------------------------------- */
+@import url("default.css");
+
+
+/* all style
+----------------------------------------------------------- */
+@import url("style.css") ;
+@import url("3block_style.css") screen and (min-width: 769px);
+@import url("4block_style.css") screen and (min-width: 1315px);
+@import url("5block_style.css") screen and (min-width: 1600px);
+
+
+

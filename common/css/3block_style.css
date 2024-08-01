@@ -1,0 +1,58 @@
+#contents {
+width:840px;
+margin: auto;
+padding-top:240px;
+}
+
+#globalHeader {
+    background: url("../img/navibg.png") no-repeat scroll -200px bottom rgba(0, 0, 0, 0);
+    left: 50%;
+    margin: 0 auto 60px -420px;
+    overflow: hidden;
+    padding-bottom: 54px;
+    padding-top: 90px;
+    position: fixed;
+    top: 0;
+    width: 855px;
+    z-index: 99999;
+}
+
+#globalHeader h2 {
+font-size:90% !important;
+font-weight:normal;
+position:absolute;
+/*color: #FF0;;
+background-color: #000;*/
+right:0;
+padding-top:10px;
+margin-right: 20px;
+}
+
+#mainnavi ul li a {
+margin-top: 30px;
+text-decoration: none;
+color: #333;
+letter-spacing: 0;
+font-weight: 400;
+padding-top: 150px;
+padding-bottom: 54px;
+}
+
+
+#globalHeader h1 {
+float: left;
+width: 225px;
+}
+
+#catelist .cate-inner {
+    float: left;
+    font-size: 80%;
+    margin-bottom: 30px;
+    width: 270px;
+}
+
+.detail #pic li{
+    width: 855px;
+	margin:auto;
+	float:none;
+	}

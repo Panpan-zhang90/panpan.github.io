@@ -1,0 +1,24 @@
+#contents {
+width:1125px;
+margin:auto;
+padding-top:240px;
+}
+
+#globalHeader {
+    background:no-repeat scroll left bottom rgba(255, 255, 255, 0.8);
+    left: 50%;
+    margin: 0 auto 20px -562px;
+    overflow: hidden;
+    padding-bottom: 54px;
+    padding-top: 90px;
+    position: fixed;
+    top: 0;
+    width: 1140px;
+    z-index: 99999;
+}
+
+.detail #pic li{
+    width: 1140px;
+	margin:auto;
+	float:none;
+	}
